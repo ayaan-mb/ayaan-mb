@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Ayaan Khurram 👋
 
-<!--
-**ayaan-mb/ayaan-mb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Developer in Progress
+💻 WordPress Plugin Developer
+🤖 Learning AI, Machine Learning & Automation
+🎮 Building Games and Web Applications
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about AI development and software engineering. My goal is to become a professional AI developer by building real-world projects and continuously improving my skills in Python, Machine Learning, LLMs, and automation.
+
+## Tech Stack
+
+* Python
+* JavaScript
+* WordPress Development
+* Git & GitHub
+* AI & LLM Applications
+* HTML & CSS
+
+## Current Focus
+
+* AI Development
+* Python Programming
+* Automation Tools
+* SaaS Projects
+* Game Development
+
+## Featured Projects
+
+* WordPress Security Plugins
+* AI Automation Projects
+* JavaScript Games
+* Custom Business Tools
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayaan-mb\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaan-mb\&layout=compact)
+
+## Connect With Me
+
+📧 Available for collaboration and freelance projects.
