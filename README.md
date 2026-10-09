@@ -1,44 +1,28 @@
-# Hi, I'm Ayaan Khurram 👋
+# Ayaan Khurram
 
-🚀 AI Developer in Progress
-💻 WordPress Plugin Developer
-🤖 Learning AI, Machine Learning & Automation
-🎮 Building Games and Web Applications
+**Founder & CEO of [FableWave Digital](https://fablewave.digital)**: an AI visibility agency that helps businesses show up when customers search on Google, ChatGPT, Gemini and Perplexity.
 
-## About Me
+I build the tech behind it myself: AI tools, web apps, e-commerce systems and the occasional game.
 
-I am passionate about AI development and software engineering. My goal is to become a professional AI developer by building real-world projects and continuously improving my skills in Python, Machine Learning, LLMs, and automation.
+---
 
-## Tech Stack
+### 🚀 What I'm building
 
-* Python
-* JavaScript
-* WordPress Development
-* Git & GitHub
-* AI & LLM Applications
-* HTML & CSS
+- **[FableWave Digital](https://fablewave.digital)**: agency site with a free [AI Visibility Audit](https://fablewave.digital/ai-audit) tool
+- **FableWave Commerce**: one central backend that runs multiple e-commerce stores
+- **[Tonymoni](https://tonymoni.com)**: e-commerce store, built with Next.js + TypeScript
+- **[Plixoo](https://plixoo.fun)**: browser game platform with avatars and an in-game marketplace
+- **WordPress security plugins** and custom business tools
 
-## Current Focus
+### 🛠 Stack
 
-* AI Development
-* Python Programming
-* Automation Tools
-* SaaS Projects
-* Game Development
+TypeScript · Next.js · Python · JavaScript · WordPress · AI / LLM apps · Automation
 
-## Featured Projects
+### 📊 Stats
 
-* WordPress Security Plugins
-* AI Automation Projects
-* JavaScript Games
-* Custom Business Tools
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayaan-mb&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaan-mb&layout=compact&hide_border=true)
 
-## GitHub Stats
+### 📬 Work with me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayaan-mb\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaan-mb\&layout=compact)
-
-## Connect With Me
-
-📧 Available for collaboration and freelance projects.
+Want your business to show up in AI answers? Start with a free audit at **[fablewave.digital/ai-audit](https://fablewave.digital/ai-audit)** or visit **[ayaan.fablewave.digital](https://ayaan.fablewave.digital)**.
